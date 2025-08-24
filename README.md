@@ -7,3 +7,4 @@ Haciendo funcionalidad de login -Estado: En progreso
 >>>>>>> 0054218 (Funcionalidad de login en progreso)
 Se crea la rama hotFix
 >>>>>>> 9966381 (Creación de nueva rama hotFix)
+Creación de nuevamente rama en repo remoto
